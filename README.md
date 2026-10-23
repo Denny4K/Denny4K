@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Daniel António Kapemba
 Conhecido por Denny AK
 
-### Backend & Database Developer in evolution · Cybersecurity Enthusiast
+### Backend & Database Developer in evolution · Cybersecurity Student
 
 <img src="Imagens_1204Denny/banner_daniel_kapemba.png" alt="Banner_Daniel_Kapemba">
 
@@ -35,6 +35,8 @@ Systems & Networks
 Cybersecurity
 ```
 
+I think that is a good way to become a cloud security engineer.
+
 I learn primarily by **building real projects, experimenting in laboratories and solving practical problems**.
 
 My goal is not  to know many technologies.
@@ -54,7 +56,7 @@ My goal is not  to know many technologies.
 * PHP
 * Laravel
 * JavaScript
-* C#
+* C# (Learning with .NET ecossistem)
 
 </td>
 
@@ -108,11 +110,17 @@ My goal is not  to know many technologies.
   <a href="https://mozilla.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
-  </a>
+
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" alt="C#"/>
+  </a>
+</p>
+
+### Frameworks
+
+<p align="left">
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
   </a>
 </p>
 
@@ -301,6 +309,7 @@ I'm also working on:
 
 I'm interested in connecting with:
 
+* Cloud engineers
 * Backend Developers
 * Database Professionals
 * Cybersecurity Professionals
