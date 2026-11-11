@@ -19,44 +19,42 @@ Conhecido por Denny AK
 
 ## 👨‍💻 About Me
 
-I'm **Daniel António Kapemba**, a software developer from **Angola**, building my career around **Backend Development, Databases and Cybersecurity**.
+I'm **Daniel António Kapemba**, a software developer from **Angola**, currently i'm intern in backend development and penetration testing.
 
-I'm particularly interested in what happens behind the interface — how applications process requests, how data is structured and stored, how systems communicate, and how vulnerabilities can compromise them.
+I'm particularly interested in what happens behind the interface — how applications process requests, how data is structured and stored, how systems communicate, and how vulnerabilities can compromise them. I'm absolutelly commited to becoming a **Cloud Security Engineer**
 
 My professional path is built around:
 
 ```text
-Backend
-   ↓
-Databases
+Backend & DB
    ↓
 Systems & Networks
    ↓
 Cybersecurity
 ```
 
-I think that is a good way to become a cloud security engineer.
-
 I learn primarily by **building real projects, experimenting in laboratories and solving practical problems**.
 
-My goal is not  to know many technologies.
+My goal is not  to know many technologies like a crazy 🤣
 
 > **I want to understand how systems are built, how data is handled, and how everything can be protected.**
 
 ---
 
-## 🧭 My Current Focus
+## 🧭 The technologies and tools that i work
 
 <table>
 <tr>
 <td width="50%">
 
-### 💻 Backend
+### 💻 Backend (Frameworks⚡)
 
-* PHP
-* Laravel
-* JavaScript
-* C# (Learning with .NET ecossistem)
+* PHP (Laravel) 
+* C# (ASP.NET Core)
+
+</td>
+
+<td>
 
 </td>
 
@@ -92,6 +90,7 @@ My goal is not  to know many technologies.
 * Ethical Hacking
 * Secure Development
 * Pentest
+* Osint
 
 </td>
 </tr>
@@ -102,7 +101,6 @@ My goal is not  to know many technologies.
 # 🛠️ Tech Stack
 
 ### Languages
-
 <p align="left">
   <a href="https://www.php.net/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP"/>
@@ -110,36 +108,45 @@ My goal is not  to know many technologies.
   <a href="https://mozilla.org" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
   </a>
-
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" alt="C#"/>
   </a>
 </p>
 
 ### Frameworks
-
 <p align="left">
+  <a href="https://microsoft.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev" width="55" height="55" alt="ASP.NET Core"/>
+  </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
   </a>
 </p>
 
 ### Databases
-
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
   </a>
-  <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sql" width="55" height="55" alt="SQL"/>
+</p>
+
+### Local Servers
+<p align="left">
+  <a href="https://apachefriends.org" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" height="35" alt="XAMPP"/>
+  </a>
+  <a href="https://laragon.org" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" height="35" alt="Laragon"/>
   </a>
 </p>
 
 ### Systems & Tools
-
 <p align="left">
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55" alt="Ubuntu"/>
+  </a>
+  <a href="https://kali.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev" width="55" height="55" alt="Kali Linux"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
@@ -147,10 +154,18 @@ My goal is not  to know many technologies.
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
   </a>
+  <a href="https://docker.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev" width="55" height="55" alt="Docker"/>
+  </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
   </a>
+  <br/>
+  <a href="https://vmware.com" target="_blank" rel="noreferrer">
+    <img src="https://shields.io" height="35" alt="VMware"/>
+  </a>
 </p>
+
 
 
 ---
@@ -269,7 +284,7 @@ Cybersecurity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=1204Denny&hide_border=true" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Denny4K&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
