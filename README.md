@@ -251,15 +251,6 @@ Cybersecurity
 <img src="Imagens_1204Denny/Certificado_Daniel_Antonio_Kapemba_Shield_Pentest.jpg" alt="certificate_cybersecurity">
 <p>Uma certificação que demonstra o meu compromisso em aprender e evoluir na área de segurança cibernética.</p>
 
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1204Denny&hide_border=true" alt="GitHub Activity Graph"/>
-</div>
-
----
 
 # 🌍 Beyond Code
 
