@@ -48,7 +48,7 @@ My goal is not  to know many technologies like a crazy 🤣
 <td width="50%">
 
 ### 💻 Backend (Frameworks⚡)
-<p><p>
+
 * PHP (Laravel) 
 * C# (ASP.NET Core)
 
@@ -188,26 +188,9 @@ Every project is an opportunity to understand something deeper.
 
 ---
 
-# 🧭 My Roadmap
+# Where I Learn 💪🏽
 
-### 01 — Backend & Databases
-
-`Backend Development` → `SQL` → `Database Engineering` → `APIs`
-
-⬇️
-
-### 02 — Systems & Networking
-
-`Linux` → `Operating Systems` → `Networking`
-
-⬇️
-
-### 03 — Cybersecurity
-
-`Security Fundamentals` → `Web Security` → `Ethical Hacking` → `Security Engineering`
-
-
-⬇️
+Tryhackme (tryhackme.com/classrooms)
 
 ---
 
