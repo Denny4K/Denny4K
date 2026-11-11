@@ -256,9 +256,10 @@ Cybersecurity
 # 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=1204Denny&hide_border=true" alt="GitHub Activity Graph"/>
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=1204Denny&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
 ---
