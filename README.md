@@ -188,10 +188,6 @@ Every project is an opportunity to understand something deeper.
 
 ---
 
-# Where I Learn 💪🏽
-
-Tryhackme (tryhackme.com/classrooms)
-
 ---
 
 # 📚 Currently Learning
