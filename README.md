@@ -54,10 +54,6 @@ My goal is not  to know many technologies like a crazy 🤣
 
 </td>
 
-<td>
-
-</td>
-
 <td width="50%">
 
 ### 🗄️ Databases
