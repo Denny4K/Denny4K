@@ -92,75 +92,39 @@ My goal is not  to know many technologies like a crazy 🤣
 </tr>
 </table>
 
-# 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stacks
 
 ### Languages
-<p align="left">
-  <a href="https://php.net" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="PHP"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="JavaScript"/>
-  </a>
-  <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="C#"/>
-  </a>
-</p>
+
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/dotnet/csharp/)
 
 ### Frameworks
-<p align="left">
-  <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="ASP.NET Core"/>
-  </a>
-  <a href="https://laravel.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="Laravel"/>
-  </a>
-</p>
 
-### Databases
-<p align="left">
-  <a href="https://mysql.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="MySQL"/>
-  </a>
-</p>
+[![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 
-### Local Servers
-<p align="left">
-  <a href="https://apachefriends.org" target="_blank" rel="noreferrer">
-    <img src="https://badgen.net" height="32" alt="XAMPP"/>
-  </a>
-  <a href="https://laragon.org" target="_blank" rel="noreferrer">
-    <img src="https://badgen.net" height="32" alt="Laragon"/>
-  </a>
-</p>
+### Database
 
-### Systems & Tools
-<p align="left">
-  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="Ubuntu"/>
-  </a>
-  <a href="https://kali.org" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="Kali Linux"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="Git"/>
-  </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.devhub" width="55" height="55" alt="GitHub"/>
-  </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://jsdelivr.net" width="55" height="55" alt="Docker"/>
-  </a>
-  <a href="https://visualstudio.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="VS Code"/>
-  </a>
-  <br/>
-  <a href="https://vmware.com" target="_blank" rel="noreferrer">
-    <img src="https://badgen.net" height="32" alt="VMware"/>
-  </a>
-</p>
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
----
+### Local servers
+
+[![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=apachefriends&logoColor=white)](https://www.apachefriends.org/)
+[![Laragon](https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)](https://laragon.org/)
+
+### Systems and tools
+
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
 
 # 🚀 Featured Projects
 
