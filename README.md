@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Daniel António Kapemba
 Conhecido por Denny AK
 
-### Backend & Database Developer in evolution · Cybersecurity Student
+### Backend & Database Developer in evolution · Cybersecurity Exploring
 
 <img src="Imagens_1204Denny/banner_daniel_kapemba.png" alt="Banner_Daniel_Kapemba">
 
@@ -48,7 +48,7 @@ My goal is not  to know many technologies like a crazy 🤣
 <td width="50%">
 
 ### 💻 Backend (Frameworks⚡)
-
+<p><p>
 * PHP (Laravel) 
 * C# (ASP.NET Core)
 
@@ -92,77 +92,73 @@ My goal is not  to know many technologies like a crazy 🤣
 </tr>
 </table>
 
----
-
 # 🛠️ Tech Stack
 
 ### Languages
 <p align="left">
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=php" width="55" height="55" alt="PHP"/>
+  <a href="https://php.net" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev" width="55" height="55" alt="PHP"/>
   </a>
   <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" width="55" height="55" alt="JavaScript"/>
+    <img src="https://skillicons.dev" width="55" height="55" alt="JavaScript"/>
   </a>
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cs" width="55" height="55" alt="C#"/>
+    <img src="https://skillicons.dev" width="55" height="55" alt="C#"/>
   </a>
 </p>
 
 ### Frameworks
 <p align="left">
   <a href="https://microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="ASP.NET Core"/>
+    <img src="https://jsdelivr.net" width="55" height="55" alt="ASP.NET Core"/>
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=laravel" width="55" height="55" alt="Laravel"/>
+  <a href="https://laravel.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev" width="55" height="55" alt="Laravel"/>
   </a>
 </p>
 
 ### Databases
 <p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" alt="MySQL"/>
+  <a href="https://mysql.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev" width="55" height="55" alt="MySQL"/>
   </a>
 </p>
 
 ### Local Servers
 <p align="left">
   <a href="https://apachefriends.org" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="35" alt="XAMPP"/>
+    <img src="https://badgen.net" height="32" alt="XAMPP"/>
   </a>
   <a href="https://laragon.org" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="35" alt="Laragon"/>
+    <img src="https://badgen.net" height="32" alt="Laragon"/>
   </a>
 </p>
 
 ### Systems & Tools
 <p align="left">
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ubuntu" width="55" height="55" alt="Ubuntu"/>
+  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev" width="55" height="55" alt="Ubuntu"/>
   </a>
   <a href="https://kali.org" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="Kali Linux"/>
+    <img src="https://jsdelivr.net" width="55" height="55" alt="Kali Linux"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git"/>
+  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev" width="55" height="55" alt="Git"/>
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" width="55" height="55" alt="GitHub"/>
+  <a href="https://github.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.devhub" width="55" height="55" alt="GitHub"/>
   </a>
   <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev" width="55" height="55" alt="Docker"/>
+    <img src="https://jsdelivr.net" width="55" height="55" alt="Docker"/>
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" alt="VS Code"/>
+  <a href="https://visualstudio.com" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev" width="55" height="55" alt="VS Code"/>
   </a>
   <br/>
   <a href="https://vmware.com" target="_blank" rel="noreferrer">
-    <img src="https://shields.io" height="35" alt="VMware"/>
+    <img src="https://badgen.net" height="32" alt="VMware"/>
   </a>
 </p>
-
-
 
 ---
 
