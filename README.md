@@ -125,7 +125,7 @@ My goal is not  to know many technologies like a crazy 🤣
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 [![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](https://www.vmware.com/)
-
+[!][Visual Studio 2022](https://img.shields.io.badge/Visual_Studio_2022
 # 🚀 Featured Projects
 
 ### 🔐 DocSign
