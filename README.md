@@ -137,7 +137,6 @@ Um projecto cujo o objectivo é reduzir a dificuldade de estudantes procurarem u
 
 **Focus:**
 
-`PHP` `MySQL` `Security` `Authentication` `RBAC` `Cryptography`
 
 > Repositório Disponível Em Breve
 
