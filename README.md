@@ -37,7 +37,7 @@ I learn primarily by **building real projects, experimenting in laboratories and
 
 My goal is not  to know many technologies like a crazy 🤣
 
-> **I want to understand how systems are built, how data is handled, and how everything can be protected.**
+> **I want to understand how systems are built and how them works in the cloud, how data is handled, and how everything can be protected.**
 
 ---
 
@@ -60,6 +60,7 @@ My goal is not  to know many technologies like a crazy 🤣
 
 * SQL
 * MySQL
+* SqlServer
 * Database Design
 * Data Modeling
 * Database Security
@@ -193,20 +194,17 @@ Every project is an opportunity to understand something deeper.
 # 📚 Currently Learning
 
 ```text
-Backend Development
+Backend Development and APIs
 SQL & Database Engineering
-Linux
-Networking
-Ethical Hacking
+Networking & Ethical Hacking
 Cybersecurity
 ```
 
 ### 🎯 Next Milestones
 
-* [ ] Strengthen Backend Development
-* [ ] Deepen SQL & Database Engineering
+* [ ] Strengthen Backend Development, APIs & Database Engineering
 * [ ] Complete Networking foundations
-* [ ] Prepare for data center & cloud security
+* [ ] Prepare for cloud security
 * [ ] Strengthen Linux & Systems
 * [ ] Continue Ethical Hacking
 * [ ] Build security-focused projects
@@ -228,7 +226,7 @@ Cybersecurity
 #  Certifications
 
 <img src="Imagens_1204Denny/Certificado_Daniel_Antonio_Kapemba_Shield_Pentest.jpg" alt="certificate_cybersecurity">
-<p>Uma certificação que demonstra o meu compromisso em aprender e evoluir na área de segurança cibernética.</p>
+<p>Minha primeira formação em hacking ético. Aprendendo um pouco sobre linux, osint, engenharia social e ferramentas.</p>
 
 
 # 🌍 Beyond Code
@@ -239,7 +237,6 @@ I'm also working on:
 * 🧠 Developing problem-solving skills
 * 📚 Studying technology consistently
 * 🌐 Building a professional network
-* 🚀 Participating in technology projects
 * 🤝 Exploring Open Source
 
 ---
